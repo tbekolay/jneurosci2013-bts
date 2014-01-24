@@ -1,0 +1,9 @@
+data.*
+.doit.db
+.ipynb_checkpoints
+.DS_Store
+*.svg
+*.pdf
+*.log
+text-diff.tex
+*.pyc
